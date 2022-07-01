@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="45ecd75e-a5ba-4607-a0e0-033276d0a700" name="GoogleTrendsParser">
+        <fileTransfer accessType="SFTP" host="143.244.183.173" port="22" sshConfigId="e5c52187-9ae8-4459-b5f7-9c89538ea75a" sshConfig="root@143.244.183.173:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
