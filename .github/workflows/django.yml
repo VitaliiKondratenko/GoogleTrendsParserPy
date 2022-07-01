@@ -36,4 +36,4 @@ jobs:
         TIME_ZONE: UTC
         CACHE_KEY_PREFIX: Halo
       run: |
-        python ./django_project/manage.py test
+        python ./manage.py test
